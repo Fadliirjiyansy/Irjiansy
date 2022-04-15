@@ -1,5 +1,5 @@
 ### Hi there 👋
--contant me dliirjiansyah@gmail.com
+-📫 You can contact me at dliirjiansyah@gmail.com
 
 <!--
 **Irjiansy/Irjiansy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
